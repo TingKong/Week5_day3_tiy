@@ -29,6 +29,23 @@ textarea {
     float: right;
     text-transform: lowercase;
 }
+.col-md-4 h2 {
+    font-size: 27px;
+}
+
+h4{
+    font-size:16px;
+}
+
+h3.work, .index h3{
+        font-size: 18px;
+    text-transform: uppercase;
+    margin-left: -15px;
+}
+h3.contact{
+        font-size: 18px;
+    text-transform: uppercase;}
+
 
 .jumbotron{
        // background: url(../images/home_image.png) no-repeat;
@@ -55,12 +72,23 @@ textarea {
 }
 
 .col-md-4 h2{
-    font-size:21px;
+    font-size:27px;
 }
 
 .col-md-4 i{
     font-size:72px;
 }
+.work .col-md-4{
+        height: 650px;
+          text-align:left;
+}
+.work .col-md-4 h4{
+    font-weight: bold;
+}
+    .row.work ul {
+        margin-left:-40px;
+        text-align:left;
+    }
 
 footer p{
     color:#00d4ff;

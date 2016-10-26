@@ -82,6 +82,11 @@ h3.contact{
         height: 650px;
           text-align:left;
 }
+
+.work img{
+    display:block;
+  
+}
 .work .col-md-4 h4{
     font-weight: bold;
 }
